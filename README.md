@@ -2,13 +2,15 @@
 
 ## About Me
 - 🔭 I’m a Web Developer and Blockchain Developer.
-- 🌱 I have experience in Python, HTML, CSS, and JavaScript.
+- 🌱 I have experience in Python, HTML, CSS, rust react native and JavaScript.
 - 🔐 I specialize in cryptography, including traditional methods and quantum-resistant techniques like XMSS and PQNTRU.
 
 ## Skills
-- **Languages:** Python, HTML, CSS, JavaScript
+- **Languages:** Python, HTML, CSS, JavaScript ,Rust 
 - **Blockchain:** Development and implementation
 - **Cryptography:** Traditional and Quantum-Resistant (XMSS, PQNTRU)
+- **App development:** React native, flet rust
+- **Web development** python,flask , html css , JavaScript 
 
 ## Interests
 - 👀 I’m interested in cutting-edge technology and advancements in web development and blockchain.
