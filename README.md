@@ -18,7 +18,7 @@
 
 ## Collaboration
 - 💞️ I’m looking to collaborate on innovative projects related to web development and blockchain technology.
-- 📬 How to reach me: [thebrightlife334@gmail.com]
+- 📬 How to reach me: [hs.456.king@gmail.com]
 
 
 ---
