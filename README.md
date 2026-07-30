@@ -5,7 +5,7 @@
 
 *Systems-minded software, built securely.*
 
-[Portfolio](https://hamza1s34.github.io/hamza-web/) · [Résumé](https://hamza1s34.github.io/hamza-web/Hamza_Shah_Resume.pdf) · [Email](mailto:hs.456.king@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamza-shah-2b510929a/)
+[Portfolio](https://hamza1s34.github.io/hamza-web/) · [Résumé](https://hamza1s34.github.io/hamza-web/Hamza_Shah_Resume.pdf) · [Email](mailto:syedhamza1s34@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamza-shah-2b510929a/)
 
 </div>
 
