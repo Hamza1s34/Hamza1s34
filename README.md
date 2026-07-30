@@ -36,7 +36,7 @@ I care about mathematically sound security, clean implementation, and collaborat
 
 ## Selected work
 
-**[MetaLLM](https://github.com/Metallm-labs/Metallm-AI-Aggregator.git) ** — Multi-model AI aggregator platform with intelligent routing, a multi-round debate system with a neutral AI judge, and usage-based billing supporting fiat and crypto. React + TypeScript frontend, Express.js/Node.js backend, PostgreSQL with Drizzle ORM.
+**[MetaLLM](https://github.com/Metallm-labs/Metallm-AI-Aggregator.git)** — Multi-model AI aggregator platform with intelligent routing, a multi-round debate system with a neutral AI judge, and usage-based billing supporting fiat and crypto. React + TypeScript frontend, Express.js/Node.js backend, PostgreSQL with Drizzle ORM.
 
 **[QBitcoin](https://github.com/Hamza1s34/Qbitcoin)** — Quantum-resistant blockchain with a full Python node implementation, consensus engine, Merkle verification, and P2P propagation. Falcon-512 lattice-based signatures replace ECDSA end-to-end. JSON-RPC/gRPC APIs, desktop and mobile wallets, block explorer.
 
