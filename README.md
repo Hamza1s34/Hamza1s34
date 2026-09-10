@@ -5,7 +5,9 @@
 
 *Systems-minded software, built securely.*
 
-[Portfolio](https://hamza1s34.github.io/hamza/) · [Résumé](https://hamza1s34.github.io/hamza/Hamza_Shah_Resume.pdf) · [Email](mailto:syedhamza1s34@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hamza-shah-2b510929a/)
+[Portfolio](https://hamza1s34.github.io/hamza/) · [Résumé](https://hamza1s34.github.io/hamza/Hamza_Shah_Resume.pdf) · [Email](mailto:syedhamza1s34@gmail.com) · [LinkedIn](https://www.linkedin.com/in/syedhamza1s34/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hamza1s34&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## Abstract
 
-I build secure systems, privacy-first applications, and production-grade cryptography that withstand real-world adversaries — from classical threats to quantum computing. My work spans end-to-end encryption, anonymous networking, blockchain consensus, and modern full-stack architecture.
+I build secure systems, privacy-first applications, and production-grade cryptography that withstand real-world adversaries — from classical threats to quantum computing. My work spans end-to-end product engineering: protocol design, cryptographic implementation, secure architecture, and polished user-facing experiences.
 
 I care about mathematically sound security, clean implementation, and collaborating closely enough to turn a strong idea into a battle-tested product.
 
@@ -36,17 +38,17 @@ I care about mathematically sound security, clean implementation, and collaborat
 
 ## Selected work
 
-**[MetaLLM](https://github.com/Metallm-labs/Metallm-AI-Aggregator.git)** — Multi-model AI aggregator platform with intelligent routing, a multi-round debate system with a neutral AI judge, and usage-based billing supporting fiat and crypto. React + TypeScript frontend, Express.js/Node.js backend, PostgreSQL with Drizzle ORM.
+**[MetaLLM](https://github.com/Metallm-labs/Metallm-AI-Aggregator.git)** — Multi-model AI aggregator platform with intelligent routing, a multi-round debate system with a neutral AI judge, and unified API orchestration.
 
-**[QBitcoin](https://github.com/Hamza1s34/Qbitcoin)** — Quantum-resistant blockchain with a full Python node implementation, consensus engine, Merkle verification, and P2P propagation. Falcon-512 lattice-based signatures replace ECDSA end-to-end. JSON-RPC/gRPC APIs, desktop and mobile wallets, block explorer.
+**[QBitcoin](https://github.com/Hamza1s34/Qbitcoin)** — Quantum-resistant blockchain with a full Python node implementation, consensus engine, Merkle verification, and P2P propagation. Falcon-512 signatures and post-quantum transaction security.
 
-**[Gumnam](https://github.com/Hamza1s34/Gumnam)** — Serverless, Tor-based anonymous messenger. Rust core with Ed25519/X25519 ECIES + ChaCha20-Poly1305 + HKDF, offline delivery via embedded libp2p Kademlia DHT, and a Flutter desktop client via flutter_rust_bridge.
+**[Gumnam](https://github.com/Hamza1s34/Gumnam)** — Serverless, Tor-based anonymous messenger. Rust core with Ed25519/X25519 ECIES + ChaCha20-Poly1305 + HKDF, offline delivery via embedded libp2p, and privacy-preserving routing.
 
 ---
 
 ## Notes & tools
 
-`JavaScript` `TypeScript` `Python` `Rust` `Go` &nbsp;·&nbsp; `React` `Next.js` `React Native` `Flutter` &nbsp;·&nbsp; `RSA` `ECC` `AES-256` `Kyber` `Falcon` `Dilithium` `NTRU` &nbsp;·&nbsp; `Tor` `libp2p` `Kademlia DHT` &nbsp;·&nbsp; `Docker` `Oracle Cloud` `AWS` `Azure` `Nginx`
+`JavaScript` `TypeScript` `Python` `Rust` `Go` &nbsp;·&nbsp; `React` `Next.js` `React Native` `Flutter` &nbsp;·&nbsp; `RSA` `ECC` `AES-256` `Kyber` `Falcon` `Dilithium` `NTRU` &nbsp;·&nbsp; `Tor` `libp2p` `WebSockets` `gRPC` `Linux` `AWS` `Azure` `Oracle Cloud`
 
 ---
 
